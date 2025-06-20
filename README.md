@@ -14,7 +14,7 @@ Bienvenue dans ce jeu Python où vous devez taper les lettres d’un mot en **co
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-utilisateur/jeu-morse.git
+git clone https://github.com/TotoD3V/Morse-Project.git
 cd jeu-morse
 ```
 
