@@ -16,28 +16,33 @@ Bienvenue dans ce jeu Python où vous devez taper les lettres d’un mot en **co
 ```bash
 git clone https://github.com/votre-utilisateur/jeu-morse.git
 cd jeu-morse
+```
 
 ### 2. Créer un environnement virtuel
 ```bash
 python -m venv venv
+```
 
 ### 3. Activer l’environnement virtuel
-Windows :
+#### Windows :
 
 ```bash
 venv\Scripts\activate
-
-macOS / Linux :
+```
+#### macOS / Linux :
 
 ```bash
 source venv/bin/activate
+```
 
 ### 4. Installer les dépendances
 ```bash
 pip install -r requirements.txt
+```
 
 ### ▶️ Lancer le jeu
 Assurez-vous d’être dans l’environnement virtuel, puis lancez :
 
 ```bash
 python morse_game.py
+```
